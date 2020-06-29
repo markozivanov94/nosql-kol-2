@@ -1,0 +1,10 @@
+Marko,
+
+Zadatak za tebe je da napises program u prog jeziku python koji na osnovu 
+Open Street Map XML datoteke https://download.geofabrik.de/europe/macedonia-latest.osm.bz2 
+
+Podatke o ulicama smesta u mongodb bazu i omogucuje export podataka u json obliku 
+o svim ulicama koje se nalaze u krugu od 3km u odnosu na markiranu poziciju.
+
+Centar radijusa 
+42.008325, 21.367214
